@@ -1,0 +1,1 @@
+type StringNullable = (string | null)[];
